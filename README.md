@@ -21,11 +21,11 @@
 
 # 📷 Preview
 <p align="center">
-  <img src="login.png" width="350"> 
+  <img src="login.PNG" width="350"> 
 </p>
 
 <p align="center">
-  <img src="sign.png" width="350"> 
+  <img src="sign.PNG" width="350"> 
 </p>
 
 # 🌐 Live Demo
