@@ -1,12 +1,31 @@
-# React + Vite
+# Sign Up & Login page 
+# 🚀 Features
+* 🔄 Toggle between Login and Sign Up modes
+  
+* 🔒 Secure authentication with Firebase Auth
+  
+* 🎨 Beautiful gradient-based UI with Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+* 📱 Responsive and mobile-friendly layout
+  
+* 💬 User-friendly error and success messages
 
-Currently, two official plugins are available:
+# 🛠️ Tech Stack
+* React.js
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Tailwind CSS
 
-## Expanding the ESLint configuration
+* Firebase Authentication
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Netlify (for deployment)
+
+# 📷 Preview
+<p align="center">
+  <img src="docs/login.png" width="350"> 
+</p>
+
+<p align="center">
+  <img src="docs/sign.png" width="350"> 
+</p>
+
+# 🌐 Live Demo
